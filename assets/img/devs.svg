@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img" aria-labelledby="title desc">
+  <title id="title">Mica Devs — Web Agency</title>
+  <desc id="desc">A modern purple and white logo with a geometric M symbol and the Mica Devs wordmark.</desc>
+  <defs>
+    <linearGradient id="micaPurple" x1="28" y1="22" x2="206" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8069C7"/>
+      <stop offset="1" stop-color="#57408F"/>
+    </linearGradient>
+  </defs>
+  <!-- Symbol -->
+  <g transform="translate(26 25)">
+    <rect width="210" height="210" rx="54" fill="url(#micaPurple)"/>
+    <path d="M48 155V55h25l32 42 32-42h25v100h-27V98l-30 39-30-39v57H48Z" fill="#fff"/>
+    <circle cx="166" cy="45" r="8" fill="#D8CCFF"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="276" y="132" fill="#242033" font-family="Inter, Manrope, Arial, sans-serif" font-size="86" font-weight="750" letter-spacing="-4">mica</text>
+  <text x="478" y="132" fill="#6750A4" font-family="Inter, Manrope, Arial, sans-serif" font-size="86" font-weight="750" letter-spacing="-4">devs</text>
+  <rect x="281" y="158" width="78" height="6" rx="3" fill="#6750A4"/>
+  <text x="281" y="199" fill="#6E687B" font-family="Inter, Manrope, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="4.5">WEB DESIGN &amp; DEVELOPMENT</text>
+</svg>

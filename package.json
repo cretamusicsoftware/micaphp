@@ -1,0 +1,13 @@
+{
+  "name": "micagency-php",
+  "private": true,
+  "description": "Optional: only needed to rebuild assets/css/app.css after you change Tailwind classes.",
+  "scripts": {
+    "build:css": "tailwindcss -i src/input.css -o assets/css/app.css --minify",
+    "watch:css": "tailwindcss -i src/input.css -o assets/css/app.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}
